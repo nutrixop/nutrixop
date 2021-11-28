@@ -1,6 +1,6 @@
-<h3 align="center">Hello there, I'm Piyush 👋</h3>
+<h3 align="center">Hello there, I'm Deepak 👋</h3>
 
-<img src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/profile-header-image.gif" alt="banner that says Piyush Jangid - Bulding tech to elevate people. Software Developer and Learner. Eat ● Sleep ● Code ● Repeat alongside a cartoon illustration of Piyush">
+<img src="https://raw.githubusercontent.com/nutrixop/nutrixop/main/Images/profile-header-image.gif" alt="banner that says Deepak Pattnayak - Bulding tech to elevate people. Software Developer and Learner. Eat ● Sleep ● Code ● Repeat alongside a cartoon illustration of Deepak">
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include C/C++, Java, Python, Machine Learning, and Deep Learning. Profound ability in Analytical Tools, Statistics, and Computing Methodologies.
 
@@ -48,11 +48,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 ### 🌍Social Media's:
 
-[<img align="left" alt="Under Development" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/website.png" />][website]
 [<img align="left" alt="Piyush Jangid | LinkedIn" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/linkedin.png" />][linkedin]
-[<img align="left" alt="Piyush Jangid | Instagram" width="22px" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/instagram.png" />][instagram]
 <img align="left" width="100" height="100" src="https://raw.githubusercontent.com/CodeSt4ck/CodeSt4ck/main/images/greetings-gif.gif">
 
-[website]: https://codest4ck.github.io/github-slideshow/#/
-[instagram]: https://www.instagram.com/_.piyush.py._/
 [linkedin]: https://www.linkedin.com/in/piyush-jangid/
